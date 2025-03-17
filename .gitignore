@@ -43,3 +43,7 @@ local.properties
 /captures
 .externalNativeBuild
 .cxx
+
+.gradle/
+.idea/
+.vscoe/
