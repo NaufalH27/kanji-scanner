@@ -1,4 +1,4 @@
-package com.android.app.ui.theme
+package com.android.kanjiscanner.ui.theme
 
 import android.app.Activity
 import android.os.Build
@@ -34,7 +34,7 @@ private val LightColorScheme = lightColorScheme(
 )
 
 @Composable
-fun JetpackcomposeappTheme(
+fun KanjiscannerTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = true,

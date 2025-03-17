@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "jetpack-compose-app"
+rootProject.name = "kanjiscanner"
 include(":app")
  

@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.android.app"
+    namespace = "com.android.kanjiscanner"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.android.app"
+        applicationId = "com.android.kanjiscanner"
         minSdk = 30
         targetSdk = 35
         versionCode = 1

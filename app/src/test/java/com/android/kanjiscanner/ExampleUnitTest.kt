@@ -1,4 +1,4 @@
-package com.android.app
+package com.android.kanjiscanner
 
 import org.junit.Test
 
